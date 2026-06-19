@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-de-invierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Susurros de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-invierno/) |
+| **Get License** | [Request Licensing for Susurros de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-invierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `46bdbcfe306a5ae51a20d23edef1a05c224fecddce1b7bcb82ce5b3183af9e00` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
