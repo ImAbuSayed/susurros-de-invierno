@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Susurros de invierno |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-de-invierno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Susurros de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-invierno/) |
+| **Get License** | [Request Licensing for Susurros de invierno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-invierno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Nena, tus ojos brillan más que la ciudad entera
-> Dime si esta noche quieres que yo sea el que te espera
-> Un susurro en la oscuridad, tú sabes cómo quemas
-> Siento esta química viva, rompiendo mis esquemas
+> Dame tu calor esta noche, no me dejes frío
+> Tus labios son veneno, yo quiero ese peligro
+> Bailamos lentos, el tiempo se hace mío
+> Susurros de invierno, tú eres mi abrigo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
