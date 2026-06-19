@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Susurros
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:21:14.336266 | `v1` | `46bdbcfe306a5ae51a20d23edef1a05c224fecddce1b7bcb82ce5b3183af9e00` | `fa21fac8a8ec23f9f8aaa2cb8006673c39c9d3cbc6e998094fb8f5806a662d0b` | `2026-06-20_susurros-de-invierno-v1.txt` |
+| 2026-06-20T03:06:19.895733 | `v2` | `10be5db2acaf0b16a08a3afd15d69a8b110a84ea49418a0bdc7c6da34957e20b` | `f856cefb2b5f153f46739d426b1959fa4cb4772374798126293f776b71c08813` | `2026-06-20_susurros-de-invierno-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
